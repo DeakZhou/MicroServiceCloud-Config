@@ -8,7 +8,7 @@ spring:
 server:
   port: 7001
 spring:
-  profiles: test
+  profiles: dev
   application:
     name: MicroServiceCloud-Config-Eureka-Client
 
